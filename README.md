@@ -112,6 +112,26 @@ cosmetic-store/
    - Visit `http://localhost/cosmetic-store/`
    - Admin panel: `http://localhost/cosmetic-store/admin/`
 
+## ⏱️ Development Time (Page-wise)
+
+**Total development time: 20 hours.** Breakdown by page/area:
+
+**Project Planning & Setup:** 2 hours
+
+**Home Page (index.php):** 6 hours
+
+**About Page (about.php):** 2 hours
+
+**Services Page (services.php):** 4 hours
+
+**Inquiry Page (inquiry.php) & Forms:** 3 hours
+
+**Admin Panel (admin/):** 2 hours
+
+**Database & Backend Integration:** 1 hour
+
+**Total = 20 hours**
+
 ## 🎯 Target Audience
 
 - **Beauty Enthusiasts** in Mumbai
@@ -246,4 +266,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-*Built with ❤️ for the beauty community of Mumbai*
